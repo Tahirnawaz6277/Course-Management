@@ -1,0 +1,47 @@
+.container {
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.form {
+  background: black;
+  padding: 62px;
+  color: antiquewhite;
+  width: 52%;
+  position: absolute;
+  left: 26%;
+  border-radius: 10px;
+}
+.custom-div {
+  background-color: black;
+  color: white;
+  padding: 20px 20px;
+  border-radius: 10px 10px 1px 1px;
+}
+.addbtn1 {
+  width: 48%;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin: 0.2rem 0.3rem 0.5rem 0.3rem;
+}
+.addbtn2 {
+  width: 48%;
+  padding: 0.5rem;
+  margin: 0.2rem 0.3rem 0.5rem 0.3rem;
+  border-radius: 0.5rem;
+}
+
+/* .containerr {
+    display: flex;
+    justify-content: center;
+  } 
+   .custom-dv {
+    background-color: black;
+    color: white;
+     padding: 20px 20px 10px 10px; 
+    border-radius: 10px 10px 1px 1px;
+    width: 64%; 
+    margin: 0 0 0 55;
+    padding: 15px;
+  }
+  */
